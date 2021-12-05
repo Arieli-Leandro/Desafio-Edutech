@@ -1,0 +1,11 @@
+.container_nav ul li {
+    display: inline-block;
+    
+}
+
+.container_nav ul li a {
+    display: block;
+}
+
+
+/* aqui está a parte onde eu fiz a estilização da navbar os outros css que também componhe a parte da navbar estão separados em: tamanho, cor, hover e assim também com as outras partes */

@@ -1,0 +1,35 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.link_navegacao:hover{
+    color: #A9A9A9;
+}
+
+
+.fonte_titulo:hover {
+    color: #A9A9A9;
+    font-size: 30px;
+}
+
+.caixa {
+    background-color: #F5F5F5;
+}
+.cor_primeira-trilha {
+    color: #828282;
+}
+
+.cor_segunda-trilha {
+    color: #9C9C9C;
+}
+
+.cor_terceira-trilha {
+    color: #B5B5B5;
+}
+
+.cor_quarta-trilha {
+    color: #CFCFCF
+}
+
+/* Aqui está toda a parte de mudança de cor, necessário para o tipo de daltonismo acromatia */
+

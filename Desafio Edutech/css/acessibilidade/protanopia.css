@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.link_navegacao:hover{
+    color: #00008B;
+}
+
+
+.fonte_titulo {
+    color: #00008B;
+}
+
+.fonte_titulo:hover {
+    color: #4169E1;
+    font-size: 35px;
+}
+
+.caixa {
+    background-color: #F5F5F5;
+}
+
+.cor_primeira-trilha {
+    color: #4169E1;
+}
+
+.cor_segunda-trilha {
+    color: #0000EE;
+}
+
+.cor_terceira-trilha {
+    color: #2042a8;
+}
+
+.cor_quarta-trilha {
+    color: #3A57CD;
+}
+
+/* parte que muda as cores para o tipo de daltonismo protanopia */

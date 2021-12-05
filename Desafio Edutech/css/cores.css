@@ -1,0 +1,55 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.container_nav ul li a {
+    color: #000000;
+    
+}
+
+.navegacao{
+    background-color: #d3d3d3;
+}
+
+.titulo_secundario {
+    color: #FFFFFF;
+}
+
+.fonte_normal {
+    color: #000000;
+}
+
+.caixa {
+    background-color: #F5F5F5;
+}
+
+.cor_primeira-trilha {
+    color: #00BFFF;
+}
+
+.cor_primeira-trilha-segundo-nivel {
+    color: #1E90FF;
+}
+
+.cor_segunda-trilha {
+    color: #0e0ec5;
+}
+
+.cor_terceira-trilha {
+    color: #9400D3;
+}
+
+.cor_terceira-trilha-segundo-nivel {
+    color: #008B00;
+}
+
+.cor_quarta-trilha {
+    color: #EE7600;
+}
+
+.cor_quarta-trilha-segundo-nivel {
+    color: #FFC125;
+}
+
+/* está é a parte onde está cada cor usada em cada nível da trilha, essas cores foram usadas na parte do index, já que nas outras versões foram usadas outras cores para a acessibilidade para o daltonismo */
+

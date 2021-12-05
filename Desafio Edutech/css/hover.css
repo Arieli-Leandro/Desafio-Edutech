@@ -1,0 +1,16 @@
+.link_navegacao:hover{
+    color: #D4Af37;
+}
+
+
+.titulo_secundario:hover {
+    font-size: 37px;
+    color: #D4Af37;
+  
+}
+
+.imagem_sobre:hover {
+    opacity: 0.9;
+}
+
+/* esta parte esta o hover que eu usei no index, a parte do hover nas outras versões mudaram a cor para cada tipo de daltonismo*/

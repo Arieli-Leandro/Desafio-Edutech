@@ -1,0 +1,89 @@
+/* Neste css, terá todas as medidas e espaços do site */
+
+
+.logo_edutech {
+    padding-left: 0.5rem;
+    /* usei o padding-left porque queria deixar a logo do edutech não tão perto do canto do site */
+}
+
+.espaco_nav {
+    padding: 1rem;
+   
+}
+
+.imagem_sobre {
+    margin-top: 1rem;
+    margin-right: 4.1rem;
+    margin-left: 4rem;
+}
+
+.titulo_secundario {
+    padding-top: 3.5rem;
+}
+
+
+.container_sobre {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.container_nav ul li a {
+    padding: 1rem;
+}
+
+.texto_edutech {
+    padding-bottom: 0.2rem;
+}
+
+.texto_alura {
+    padding-bottom: 0.2rem;
+}
+
+.titulo_trilha {
+    padding-top: 0.3rem;
+    padding-bottom: 1rem;
+}
+
+.conteudo_trilha {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.espaco {
+    padding-top: 0.8rem;
+    padding-bottom: 1.5rem;
+}
+
+.espaco_interno {
+    padding-right: 2rem;
+
+}
+
+.primeira_lista-conteudo {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.segunda_lista-conteudo {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.terceira_lista-conteudo {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.quarta_lista-conteudo {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.caixa {
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+
+/* aqui está a parte do css onde está a parte dos espaços e tamanhos de cada lugar do site */

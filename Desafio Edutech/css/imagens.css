@@ -1,0 +1,21 @@
+/* Neste css, terá as configurações das imagens, tamanho, atura e também outros tipos de configuraçoes relacionados à imagens*/
+
+.logo_edutech {
+    width: 180px;
+    float: left;
+}
+
+.imagem_sobre {
+    background: url(../imagens/programação.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    height: 160px;
+    
+    opacity: 1.0;
+    box-shadow: 10px 10px 5px #D3D3D3;
+   
+}
+
+/* aqui é onde eu modifiquei cada imagem para melhor composição do site. O logo edutech transparente eu modifiquei ele em um Editor chamada Oi editor*/
+/* modifiquei a imagem do logo edutech neste editor porque não tinha uma logo transparente, então com esse editor disponível na internet, consegui deixar ele transparente */

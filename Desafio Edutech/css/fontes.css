@@ -1,0 +1,17 @@
+.fonte_nav {
+    font-family: 'Oswald', sans-serif;
+}
+
+.fonte_titulo {
+    font-family: 'DM Serif Display', serif;
+}
+
+.fonte_chamativa {
+    font-family: 'Lora', serif;
+}
+
+.fonte_normal {
+    font-family: 'Lora', serif;
+}
+
+/* aqui está as fontes que eu usei, criei essas classes para ficar mais simples de usar no site */

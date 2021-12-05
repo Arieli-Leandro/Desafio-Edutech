@@ -1,0 +1,12 @@
+.container_flex {
+    display: flex;
+    justify-content: center;
+}
+
+.container_flex-impar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* eu usei o flexbox para uma melhor organização das caixas onde está os cursos e também para uma melhor estilização do site */

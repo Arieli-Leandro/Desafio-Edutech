@@ -1,0 +1,38 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.link_navegacao:hover{
+    color: #0000CD;
+}
+
+.fonte_titulo {
+    color: #0000CD;
+}
+
+.fonte_titulo:hover {
+    font-size: 32px;
+    color: #0000FF;
+}
+
+.caixa {
+    background-color: #F5F5F5;
+}
+
+.cor_primeira-trilha {
+    color: #0000FF;
+}
+
+.cor_segunda-trilha {
+    color: #0000CD;
+}
+
+.cor_terceira-trilha {
+    color: #0000EE;
+}
+
+.cor_quarta-trilha {
+    color: #2222f8;
+}
+
+/* parte das cores que muda na versão para deuteranopia */

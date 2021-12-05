@@ -1,0 +1,38 @@
+@media(min-width: 700px) {
+    main {
+        padding-left: 1rem;
+    }
+
+    .container_flex {
+        flex-direction: column;
+    }
+
+    .container_flex-impar {
+        flex-direction: column;
+        justify-content: first baseline;
+    }
+}
+
+@media(min-width: 800px) {
+
+    .container_flex {
+        flex-direction: row;
+    }
+
+    .container_flex-impar {
+        flex-direction: row;
+    }
+}
+
+@media(min-width: 1000px) {
+
+    .container_flex {
+        flex-direction: row;
+    }
+
+    .container_flex-impar {
+        flex-direction: row;
+    }
+}
+ 
+/* aqui está a parte responsiva do site, que infelizmente acabou não dando certo a finalização de cada media */ 

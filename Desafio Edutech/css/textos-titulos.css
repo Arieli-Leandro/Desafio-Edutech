@@ -1,0 +1,15 @@
+.titulo_secundario {
+    opacity: 0.8;
+    text-align: center;
+    font-size: 30px;
+}
+
+.centro {
+    text-align: center;
+}
+
+.fonte_normal {
+    font-size: 17px;
+}
+
+/* aqui eu deixei tanto o tamanho da fonte quanto também a opacidade de um titulo, e a centralização de cada texto do site */

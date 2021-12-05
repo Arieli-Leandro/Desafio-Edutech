@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.link_navegacao:hover{
+    color: #00FFFF;
+}
+
+
+.fonte_titulo {
+    color: #00FFFF;
+}
+
+.fonte_titulo:hover {
+    color: #00E5EE;
+    font-size: 35px;
+}
+
+.caixa {
+    background-color: #F5F5F5;
+}
+
+.cor_primeira-trilha {
+    color: #00E5EE;
+}
+
+.cor_segunda-trilha {
+    color: #00C5CD;
+}
+
+.cor_terceira-trilha {
+    color: #00F5FF;
+}
+
+.cor_quarta-trilha {
+    color: #008B8B;
+}
+
+/* css com a parte que muda a cor para o tipo de daltonismo tritanopia */
